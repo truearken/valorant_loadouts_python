@@ -1,4 +1,4 @@
-# I am working on a new version for this, this repository will no longer be maintained.
+# [NEW IMPROVED VERSION](https://github.com/truearken/valovault)
 
 ### Flexes do not work with this version, they will be overwritten every time.
 
