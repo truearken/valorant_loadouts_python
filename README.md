@@ -1,4 +1,4 @@
-# [NEW IMPROVED VERSION](https://github.com/truearken/valovault)
+# Looking for the new version? Check out [ValoVault](https://github.com/truearken/valovault)
 
 ### Flexes do not work with this version, they will be overwritten every time. Use [ValoVault](https://github.com/truearken/valovault) instead
 
